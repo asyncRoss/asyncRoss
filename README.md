@@ -1,7 +1,7 @@
 <div align="center">
   <h1>ex frontend engineer turned designer</h1>
 </div>
-<hr/>
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,figma&perline=10" alt="My Skills" width="320" height="320" />
 
