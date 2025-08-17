@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h1>ex frontend engineer turned designer</h1>
+</div>
+<hr/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,figma&perline=10" alt="My Skills" width="320" height="320" />
 
-<!--
-**asyncRoss/asyncRoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/><br/>
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJpaHhmYzFuOXl2ZmUxYmNtNWc0bnRuazhwcnJmNXFxNmxhcGxobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4mzpvCZMXrsrDHXEaF/giphy.gif" alt="gif" width="560"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
